@@ -1,5 +1,8 @@
 # SOTERIA-frontend
 
+Soteria is a secure banking chatbot that detects the way you text and can detect anomalies, that way if the pattern changes then it can flag the account
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
